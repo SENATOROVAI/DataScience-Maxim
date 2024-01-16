@@ -1,1 +1,1 @@
-# Python-Maksim
+# I love math
