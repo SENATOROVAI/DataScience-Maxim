@@ -21,14 +21,14 @@ Python(получить 3 сертификата):
 
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
 Алгоритмы Теория:
 1)скачать
-https://t.me/c/1937296927/766/8001 выписать 55стр до 63
+https://t.me/c/1937296927/766/8001 выписать 55стр до 63 +
 
 Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
