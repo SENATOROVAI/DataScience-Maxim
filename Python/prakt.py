@@ -1,4 +1,3 @@
-import bisect
-sp = [1, 2, 4]
-k = bisect.bisect(sp, 3)
-print(k)
+sl = 'internationalization'
+if len(sl) > 10:
+        print(sl[0] + str(len(sl[1:len(sl) - 1])) + sl[-1])
