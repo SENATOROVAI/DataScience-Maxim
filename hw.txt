@@ -40,10 +40,8 @@ Math:
 
 1 задача в день: 
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
-Чужие решения можно посмотреть здесь https://codeforces.com/problemset/status/4/problem/A 
-сохраняешь сюда решение Algorithms\codeforces.ipynb
-отсюда копируешь 3 решения и вставляешь себе в алгоритмы, потом проводишь разбор кода https://codeforces.com/problemset/status/4/problem/A 
-
+отсюда копируешь 3 решения https://codeforces.com/problemset/status/4/problem/A  и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
 
 
 
