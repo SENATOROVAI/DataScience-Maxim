@@ -2,18 +2,7 @@
 1)https://stepik.org/course/63085/promo дедлайн 2 месяца
 2)https://www.kaggle.com/learn/intro-to-programming 
 3)https://karpov.courses/pythonzero
-
-
-Алгоритмы (выполнить)
-1) 1 задача в день, выходные отдых https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
-начни с https://codeforces.com/problemset/problem/4/A
-Чужие решения можно посмотреть здесь https://codeforces.com/problemset/status/4/problem/A 
-сохраняешь сюда решение Algorithms\codeforces.ipynb
-ОСНОВНАЯ ЦЕЛЬ - это читать решения других людей, минимум 3шт. В начале списка, в конце и в середине.
-2)https://leetcode.com/problems/palindrome-number/ 
-сохраняешь сюда решение Algorithms\leetcode.ipynb
-ОСНОВНАЯ ЦЕЛЬ - это читать решения других людей, минимум 3шт. В начале списка, в конце и в середине.
-3)https://ods.ai/tracks/open-ml-course (попробуй пройти)
+4)https://ods.ai/tracks/open-ml-course (попробуй пройти)
 
 
 git:
@@ -30,20 +19,11 @@ Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
 2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
 
-Data analyst / Data Scientist 
-
 Math:
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
 2) https://t.me/c/1937296927/888/5238 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) ищешь по хэштегу с #day1 по #day20
-3) сделать всё до 65стр https://t.me/c/1937296927/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
-4) https://lab.karpov.courses/learning/253/module/2697/ (секция линал), ознакомиться
+3) https://lab.karpov.courses/learning/253/module/2697/ (секция матан) ознакомиться
                                                                         
-дискретка (математика для прогеров, скачать):
-1)https://t.me/ruslansenatorov/43
-
-System design (на перспективу, скачать):
-1) https://zlib.pub/book/-7p8mhg8mcl70
-
 01/23
 сначала делаешь на питоне в sympy https://t.me/c/1937296927/13078
 сохраняешь в \Math\calculus\01\sympy.ipynb
@@ -58,9 +38,11 @@ System design (на перспективу, скачать):
 3) Math\calculus\hw\03
 результат сохранить в \Math\calculus\03\limit.pdf
 
-В перерыве делаешь: 
-https://leetcode.com/studyplan/introduction-to-pandas/ 
-когда закончишь начни https://leetcode.com/studyplan/30-days-of-pandas/
+1 задача в день: 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+Чужие решения можно посмотреть здесь https://codeforces.com/problemset/status/4/problem/A 
+сохраняешь сюда решение Algorithms\codeforces.ipynb
+отсюда копируешь 3 решения и вставляешь себе в алгоритмы, потом проводишь разбор кода https://codeforces.com/problemset/status/4/problem/A 
 
 
 
