@@ -1,8 +1,4 @@
-﻿Сколько часов в неделю ты готов выделять на домашку? подумай и напиши мне, я выставлю примерные дедлайны на задачи. (3 - 4 часа в день) 
-Начни с секции Python, около 30-60мин в день, секция алгоритмы 1 задача в день, гит по 10мин достаточно, секция математика тоже около 30-60мин
-
-
-Python(получить 3 сертификата):
+﻿Python(получить 3 сертификата):
 1)https://stepik.org/course/63085/promo дедлайн 2 месяца
 2)https://www.kaggle.com/learn/intro-to-programming 
 3)https://karpov.courses/pythonzero
@@ -48,7 +44,24 @@ Math:
 System design (на перспективу, скачать):
 1) https://zlib.pub/book/-7p8mhg8mcl70
 
-Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+01/23
+сначала делаешь на питоне в sympy https://t.me/c/1937296927/13078
+сохраняешь в \Math\calculus\01\sympy.ipynb
+И ТАК ВСЕ ЗАДАЧИ!
+
+1) выполнить\Math\calculus\01
+сохранить фото из тетради в \Math\calculus\01\limit.pdf
+
+2) скачать https://t.me/c/1937296927/888/11888 и выполнить 5.231 - 5.245
+результат сохранить в \Math\calculus\02\limit.pdf
+
+3) Math\calculus\hw\03
+результат сохранить в \Math\calculus\03\limit.pdf
+
+В перерыве делаешь: 
+https://leetcode.com/studyplan/introduction-to-pandas/ 
+когда закончишь начни https://leetcode.com/studyplan/30-days-of-pandas/
+
 
 
 
