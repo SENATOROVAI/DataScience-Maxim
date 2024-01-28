@@ -27,7 +27,7 @@ Math:
 01/23
 сначала делаешь на питоне в sympy https://t.me/c/1937296927/13078
 сохраняешь в \Math\calculus\01\sympy.ipynb
-И ТАК ВСЕ ЗАДАЧИ!
+И ТАК ВСЕ ЗАДАЧИ! +
 
 1) выполнить\Math\calculus\01
 сохранить фото из тетради в \Math\calculus\01\limit.pdf
@@ -41,7 +41,7 @@ Math:
 1 задача в день: 
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
 отсюда копируешь 3 решения https://codeforces.com/problemset/status/4/problem/A  и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
-и так дальше по другим задачам.
+и так дальше по другим задачам. +
 
 
 
