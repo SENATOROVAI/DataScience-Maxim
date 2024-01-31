@@ -20,7 +20,7 @@ Computer Science:
 2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
 
 Math:
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf) +
 2) https://t.me/c/1937296927/888/5238 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) ищешь по хэштегу с #day1 по #day20
 3) https://lab.karpov.courses/learning/253/module/2697/ (секция матан) ознакомиться
                                                                         
