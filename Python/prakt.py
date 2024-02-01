@@ -8,8 +8,10 @@ products = {
     "роутер": 1500,
     "принтер": 5000,
     "флешка": 1000,
-    "жесткий диск": 3000
+    "жесткий диск": 3000,
 }
+
+
 def calculate_order_cost(products, *args):
     sl = {}
     for i in args:
@@ -17,11 +19,9 @@ def calculate_order_cost(products, *args):
             sl[i] = sl.get(i, 0) + 1
     sm = 0
     for v, k in sl.items():
-        sm += v * products[k]
+        sm += k * products[v]
     return sl
-    
-    
-    return sl
-total_cost= calculate_order_cost(products, 'ноутбук', 'роутер') 
-print(total_cost) # 6500
 
+
+total_cost = calculate_order_cost(products, "ноутбук", "роутер")
+print(total_cost)  # 6500
