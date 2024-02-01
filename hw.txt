@@ -1,50 +1,68 @@
-﻿Python(получить 3 сертификата):
-1)https://stepik.org/course/63085/promo дедлайн 2 месяца
-2)https://www.kaggle.com/learn/intro-to-programming 
-3)https://karpov.courses/pythonzero
-4)https://ods.ai/tracks/open-ml-course (попробуй пройти)
+﻿выполненные задания переносим в Архив(внизу файла)
 
-
-git:
+Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  + 
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme +
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
-Алгоритмы Теория:
-1)скачать
-https://t.me/c/1937296927/766/8001 выписать 55стр до 63 +
-
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
-
 Math:
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf) +
-2) https://t.me/c/1937296927/888/5238 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) ищешь по хэштегу с #day1 по #day20
-3) https://lab.karpov.courses/learning/253/module/2697/ (секция матан) ознакомиться
-                                                                        
-01/23
-сначала делаешь на питоне в sympy https://t.me/c/1937296927/13078
-сохраняешь в \Math\calculus\01\sympy.ipynb
-И ТАК ВСЕ ЗАДАЧИ! +
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+==================================
+Calculus:
+1) https://www.lektorium.tv/matematicheskij-analiz 
+1.1) https://stepik.org/course/716/syllabus 
+1.2) https://stepik.org/course/711/syllabus
+1.1-1.2 - это альтернатива 1 пункту.
+2) https://lab.karpov.courses/learning/253/ секция матан 1
 
 1) выполнить\Math\calculus\01
 сохранить фото из тетради в \Math\calculus\01\limit.pdf
+
+сделай первые 3 примера в sympy https://t.me/c/1937296927/13078
+сохраняешь в \Math\calculus\01\sympy.ipynb
 
 2) скачать https://t.me/c/1937296927/888/11888 и выполнить 5.231 - 5.245
 результат сохранить в \Math\calculus\02\limit.pdf
 
 3) Math\calculus\hw\03
 результат сохранить в \Math\calculus\03\limit.pdf
+==================================
+
+Python (получить сертификат):
+1)https://karpov.courses/pythonzero
+2)https://stepik.org/course/63085/promo
+3)https://www.kaggle.com/learn/intro-to-programming
+==================================
+Алгоритмы (выполнить):
+1)https://codeforces.com/problemset/problem/4/A 
+2)https://leetcode.com/problems/palindrome-number/
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
 
 1 задача в день: 
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
-отсюда копируешь 3 решения https://codeforces.com/problemset/status/4/problem/A  и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
-и так дальше по другим задачам. +
 
-SQL:
-1)https://karpov.courses/simulator-sql
+копируешь с каждой странице по 1 решению:
+первая страница https://codeforces.com/problemset/status/4/problem/A 
+середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
+последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
+ 
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
+
+
+==================================
+==================================
+Архив:
+
+Python:
+
 
 
 
