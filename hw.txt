@@ -21,10 +21,10 @@ Calculus:
 сохранить фото из тетради в \Math\calculus\01\limit.pdf
 
 сделай первые 3 примера в sympy https://t.me/c/1937296927/13078
-сохраняешь в \Math\calculus\01\sympy.ipynb
+сохраняешь в \Math\calculus\01\sympy.ipynb +
 
 2) скачать https://t.me/c/1937296927/888/11888 и выполнить 5.231 - 5.245
-результат сохранить в \Math\calculus\02\limit.pdf
+результат сохранить в \Math\calculus\02\limit.pdf +
 
 3) Math\calculus\hw\03
 результат сохранить в \Math\calculus\03\limit.pdf
