@@ -1,27 +1,5 @@
-products = {
-    "ноутбук": 5000,
-    "смартфон": 20000,
-    "наушники": 1000,
-    "монитор": 10000,
-    "клавиатура": 500,
-    "мышь": 200,
-    "роутер": 1500,
-    "принтер": 5000,
-    "флешка": 1000,
-    "жесткий диск": 3000,
-}
-
-
-def calculate_order_cost(products, *args):
-    sl = {}
-    for i in args:
-        if i in products.keys():
-            sl[i] = sl.get(i, 0) + 1
-    sm = 0
-    for v, k in sl.items():
-        sm += k * products[v]
-    return sl
-
-
-total_cost = calculate_order_cost(products, "ноутбук", "роутер")
-print(total_cost)  # 6500
+l1 = [2,4,3]
+l2 = [5,6,4]
+c1 = str((int(''.join(list(map(str, l1))[::-1])) + int(''.join(list(map(str, l2))[::-1]))))
+print(list(map(int,list(c1)[::-1])))
+        
