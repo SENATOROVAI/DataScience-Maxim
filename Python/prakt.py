@@ -1,5 +1,11 @@
-l1 = [2,4,3]
-l2 = [5,6,4]
-c1 = str((int(''.join(list(map(str, l1))[::-1])) + int(''.join(list(map(str, l2))[::-1]))))
-print(list(map(int,list(c1)[::-1])))
-        
+# Пример 1
+numbers_list = [1, 1, 2, 2, 3, 3, 4, 4]
+
+numbers_list_ordered = sorted(numbers_list, reverse=True)
+numbers_set = set(numbers_list)
+numbers_set.add(max(numbers_list) + 1)
+
+b = set(numbers_list) - {min(numbers_list), }
+numbers_frozenset = frozenset(b)
+print(numbers_set)
+
