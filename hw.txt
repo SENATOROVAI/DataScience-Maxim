@@ -1,14 +1,8 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
 Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
-Math(school):
-1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
-2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
 ==================================
 Calculus:
 
@@ -46,11 +40,14 @@ https://vk.com/doc297168001_651784102
 Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
 
 ==================================
-
-Python (получить сертификат):
-1)https://karpov.courses/pythonzero
-2)https://stepik.org/course/63085/promo
-3)https://www.kaggle.com/learn/intro-to-programming
+Data Cleaning(Regex):
+1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
+2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
+3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
+4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
+5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
+6)https://stepik.org/course/49442/syllabus получить сертификат
+7)https://www.kaggle.com/learn/data-cleaning 
 ==================================
 Алгоритмы (выполнить):
 1)https://codeforces.com/problemset/problem/4/A 
@@ -80,7 +77,16 @@ Computer Science:
 Архив:
 
 Python:
+Python (получить сертификат):
+1)https://karpov.courses/pythonzero
+2)https://stepik.org/course/63085/promo
+3)https://www.kaggle.com/learn/intro-to-programming
 
+Math(school):
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
 
-
-
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
