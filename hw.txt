@@ -19,9 +19,6 @@ https://vk.com/doc297168001_651784102
 
 2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf 
 
-3) переписать все примеры отсюда \Math\calculus\theory\Пределы_решения
-Свой конспект сохранить в каждой папке limit.pdf
-
 УРА, РУКУ МЫ НАБИЛИ ПОРА ПРАКТИКОВАТЬСЯ:
 
 Итоговый контроль:
@@ -42,7 +39,7 @@ https://vk.com/doc297168001_651784102
 ==================================
 Data Cleaning(Regex):
 1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
-2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
+
 3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
 4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
 5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
@@ -86,7 +83,13 @@ Math(school):
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
 2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
 
+3) переписать все примеры отсюда \Math\calculus\theory\Пределы_решения
+Свой конспект сохранить в каждой папке limit.pdf
+
 Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+Data Cleaning(Regex):
+2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
