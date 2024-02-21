@@ -34,7 +34,7 @@ Data Cleaning(Regex):
 3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
 4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
 5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
-6)https://stepik.org/course/49442/syllabus получить сертификат
+
 7)https://www.kaggle.com/learn/data-cleaning 
 ==================================
 Алгоритмы (выполнить):
@@ -99,3 +99,4 @@ Git:
 
 Data Cleaning(Regex):
 2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
+6)https://stepik.org/course/49442/syllabus получить сертификат:  https://stepik.org/course/49442
