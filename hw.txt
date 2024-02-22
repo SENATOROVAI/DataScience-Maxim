@@ -4,7 +4,15 @@ Git:
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
 ==================================
+Data Visual:
+1) https://www.kaggle.com/learn/data-visualization
+2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
+3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
+4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
+
 Calculus:
+
+1) Демидович 51-60 стр, прорешать чётные
 
 Теория(книга - для хардкорщиков): 
 https://vk.com/doc297168001_651784102
@@ -37,6 +45,16 @@ Data Cleaning(Regex):
 
 7)https://www.kaggle.com/learn/data-cleaning 
 ==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
+
+
+==================================
+==================================
+Архив:
+
 Алгоритмы (выполнить):
 1)https://codeforces.com/problemset/problem/4/A 
 2)https://leetcode.com/problems/palindrome-number/
@@ -54,15 +72,6 @@ https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
 и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
 и так дальше по другим задачам.
 ==================================
-                                                                        
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
-
-
-==================================
-==================================
-Архив:
 
 Python:
 Python (получить сертификат):
