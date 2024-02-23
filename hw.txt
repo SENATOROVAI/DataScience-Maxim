@@ -10,6 +10,9 @@ Data Visual:
 3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
 4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
 
+Data Science:
+1) https://t.me/c/1937296927/832/13289 прочитать
+
 Calculus:
 
 1) Демидович 51-60 стр, прорешать чётные
