@@ -12,6 +12,7 @@ Data Visual:
 
 Data Science:
 1) https://t.me/c/1937296927/832/13289 прочитать
+1.1) https://t.me/c/1937296927/832/14284 прочитать
 2) https://edu.sirius.online/#/course/1750 выполнить
 3) https://www.freecodecamp.org/learn/data-analysis-with-python/ получить сертификат
 4) https://education.yandex.ru/handbook/data-analysis выполнить
