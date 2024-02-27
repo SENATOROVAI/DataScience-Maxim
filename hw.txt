@@ -46,7 +46,8 @@ https://vk.com/doc297168001_651784102
 ==================================
 Data Cleaning(Regex):
 1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
-
+2) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
+2.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
 3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
 4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
 5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
