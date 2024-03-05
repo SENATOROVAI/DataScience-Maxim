@@ -5,7 +5,6 @@ Git:
 
 ==================================
 Data Visual:
-1) https://www.kaggle.com/learn/data-visualization
 2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
 3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
 4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
@@ -19,7 +18,9 @@ Data Science:
 
 Calculus:
 
-1) Демидович 51-60 стр, прорешать чётные
+Выбирай задачи где не требуется доказательств. Производные высших порядков, макисмум пару примеров реши.
+2) 61-72 решить по 2 любых примера на каждую тему
+3) 72(акцент на дифференциале)-117, по 2 примера на каждую тему.
 
 Теория(книга - для хардкорщиков): 
 https://vk.com/doc297168001_651784102
@@ -96,6 +97,11 @@ Math(school):
 Свой конспект сохранить в каждой папке limit.pdf
 
 
+Calculus:
+1) Демидович 51-60 стр, прорешать чётные
+
+
+
 Итоговый контроль:
 1) скачать https://t.me/c/1937296927/888/11888 
 1.1 Изучить критерий Коши, на 28 странице(задачник)
@@ -118,3 +124,7 @@ Git:
 Data Cleaning(Regex):
 2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
 6)https://stepik.org/course/49442/syllabus получить сертификат:  https://stepik.org/course/49442
+
+
+Data Visual:
+1) https://www.kaggle.com/learn/data-visualization
