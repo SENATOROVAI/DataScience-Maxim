@@ -4,6 +4,13 @@ Git:
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
 ==================================
+Pandas:
+1) 1 задача в день 
+https://leetcode.com/studyplan/introduction-to-pandas/ 
+2) когда закончишь начни 
+https://leetcode.com/studyplan/30-days-of-pandas/
+==================================
+
 Data Visual:
 2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
 3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
