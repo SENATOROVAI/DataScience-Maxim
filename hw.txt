@@ -1,8 +1,28 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
-Git:
-4)https://t.me/c/1937296927/3602/5714 (начать делать)
+Аналитика данных на pandas:
+1) https://stepik.org/course/74457/syllabus
+2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
+3) https://www.kaggle.com/learn/pandas
+4) https://www.freecodecamp.org/learn/data-analysis-with-python/
+5) https://stepik.org/course/4852/syllabus (только введение)
+ПРАКТИКА В PANDAS: https://leetcode.com/problemset/pandas/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D
+==================================
+Data Cleaning(Regex):
+1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
+2.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
+2.2) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
+3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
+4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
+5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
+6)https://www.kaggle.com/learn/data-cleaning 
 
+==================================
+Data Visual:
+2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
+3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
+4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners (опционально)
+5) https://t.me/c/1937296927/832/14284 (rus) прочитать 
 ==================================
 SQL:
 1) https://karpov.courses/simulator-sql
@@ -17,37 +37,18 @@ SQL:
 6) https://stepik.org/course/3203/syllabus
 7) https://sql-academy.org/ru/trainer/tasks/1
 
-2)contecst по аналитике(опционально) 
-https://contest.yandex.ru/contest/28416/enter
-A/B(справочник):
-https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
 Algorithms(опционально):
 1)https://yandex.ru/yaintern/algorithm-training
 2)https://habr.com/ru/companies/yandex/articles/449890/
+==================================                                                                        
+Практика:
+1) https://education.yandex.ru/handbook/data-analysis
+2) https://t.me/c/1937296927/832/16118, берём отсюда ссылки на kaggle и проводим EDA анализ.
+3)contecst по аналитике(опционально) 
+https://contest.yandex.ru/contest/28416/enter
+4)A/B(справочник):
+https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
 ==================================
-Аналитика данных на pandas:
-1) https://stepik.org/course/74457/syllabus
-2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
-3) https://www.kaggle.com/learn/pandas
-4) https://www.freecodecamp.org/learn/data-analysis-with-python/
-5) https://stepik.org/course/4852/syllabus (только введение)
-ПРАКТИКА В PANDAS: https://leetcode.com/problemset/pandas/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D
-
-когда закончишь начни 
-https://leetcode.com/studyplan/30-days-of-pandas/
-==================================
-
-Data Visual:
-2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
-3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
-4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
-
-Data Science:
-1) https://t.me/c/1937296927/832/13289 прочитать
-1.1) https://t.me/c/1937296927/832/14284 прочитать
-2) https://edu.sirius.online/#/course/1750 выполнить
-3) https://www.freecodecamp.org/learn/data-analysis-with-python/ получить сертификат
-4) https://education.yandex.ru/handbook/data-analysis выполнить
 
 Calculus:
 
@@ -74,25 +75,8 @@ https://vk.com/doc297168001_651784102
 Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
 
 ==================================
-Data Cleaning(Regex):
-1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
-2) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
-2.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
-3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
-4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
-5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
-
-7)https://www.kaggle.com/learn/data-cleaning 
-==================================
-                                                                        
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
-
-
-==================================
-==================================
 Архив:
+
 
 Алгоритмы (выполнить):
 1)https://codeforces.com/problemset/problem/4/A 
@@ -154,6 +138,7 @@ Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
 Data Cleaning(Regex):
 2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
