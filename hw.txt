@@ -1,36 +1,60 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 
-Git:
-4)https://t.me/c/1937296927/3602/5714 (начать делать)
+Аналитика данных на pandas:
+1) https://stepik.org/course/74457/syllabus
+2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
+3) https://www.kaggle.com/learn/pandas
+4) https://www.freecodecamp.org/learn/data-analysis-with-python/
+5) https://stepik.org/course/4852/syllabus (только введение)
+ПРАКТИКА В PANDAS: https://leetcode.com/problemset/pandas/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D
+==================================
+Data Cleaning(Regex):
+1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
+2.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
+2.2) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
+3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
+4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
+5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
+6)https://www.kaggle.com/learn/data-cleaning 
 
 ==================================
-Pandas:
-1) 1 задача в день 
-https://leetcode.com/studyplan/introduction-to-pandas/ 
-2) когда закончишь начни 
-https://leetcode.com/studyplan/30-days-of-pandas/
-==================================
-
 Data Visual:
 2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
 3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
-4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
+4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners (опционально)
+5) https://t.me/c/1937296927/832/14284 (rus) прочитать 
+6) Tableau https://stepik.org/course/56280/syllabus
+==================================
+SQL:
+1) https://karpov.courses/simulator-sql
+2)https://sql-ex.ru/register.php?Lang=0
+2.1 https://sql-ex.ru/learn_exercises.php
+(ответы http://sql-tutorial.ru/ru/book_exercise_1.html
+схема БД http://sql-tutorial.ru/ru/book_computers_database.html)
 
-Data Science:
+3) https://www.kaggle.com/learn/intro-to-sql
+4) https://www.kaggle.com/learn/advanced-sql
+5) https://stepik.org/course/63054/syllabus
+6) https://stepik.org/course/3203/syllabus
+7) https://sql-academy.org/ru/trainer/tasks/1
+==================================                                                                        
+Практика:
 1) https://t.me/c/1937296927/832/13289 прочитать
-1.1) https://t.me/c/1937296927/832/14284 прочитать
-2) https://edu.sirius.online/#/course/1750 выполнить
-3) https://www.freecodecamp.org/learn/data-analysis-with-python/ получить сертификат
-4) https://education.yandex.ru/handbook/data-analysis выполнить
+1.1) https://t.me/c/1937296927/832/13290 прочитать
+1.3) https://education.yandex.ru/handbook/data-analysis
+1.4) https://www.youtube.com/watch?v=S3WAjnBC6CI&list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi
+2) https://t.me/c/1937296927/832/16118, берём отсюда ссылки на kaggle и проводим EDA анализ.
+3)contecst по аналитике(опционально) 
+https://contest.yandex.ru/contest/28416/enter
+4)A/B(справочник):
+https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
+==================================
+Algorithms(опционально):
+1)https://yandex.ru/yaintern/algorithm-training
+2)https://habr.com/ru/companies/yandex/articles/449890/
+==================================
 
 Calculus:
-
-
-
-5) 7.324, 7.325,7.330, 7.331, 7.334, 7.374, 7.380, 7.391(опционально),  7,399, 7.401, 7.407
-6) 7.411, 7.413, 7.415,7.417, 7.419, 7.423, 7.425(опционально),7.431(опционально), 7.433(опционально)
-
-
 
 Теория(книга - для хардкорщиков): 
 https://vk.com/doc297168001_651784102
@@ -54,26 +78,22 @@ https://vk.com/doc297168001_651784102
 
 Понимать и знать итоговые темы отсюда \Math\calculus\theory\Экзаменационный контроль
 
-==================================
-Data Cleaning(Regex):
-1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
-2) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
-2.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
-3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
-4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
-5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
+Probability:
+1)https://www.lektorium.tv/probability-statistics
+2)https://www.lektorium.tv/probability-statistics-8
+3)https://www.lektorium.tv/probability-statistics-9
+4)https://stepik.org/course/2911/syllabus ДСВ
+5)https://stepik.org/course/3209/syllabus НСВ (привет МАТАН)
 
-7)https://www.kaggle.com/learn/data-cleaning 
-==================================
-                                                                        
-Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  Done!
-
-
-==================================
+Statistics:
+0)статистика и котики, книга https://t.me/c/1937296927/14160/14858,
+Наглядная статистика(нужен матан),книга https://t.me/c/1937296927/14160/14685
+4)https://stepik.org/course/76/syllabus
+5)https://stepik.org/course/524/syllabus
+6)https://edu.sirius.online/#/course/1803
 ==================================
 Архив:
+
 
 Алгоритмы (выполнить):
 1)https://codeforces.com/problemset/problem/4/A 
@@ -113,6 +133,8 @@ Calculus:
 3) 72(акцент на дифференциале)-117, по 2 примера на каждую тему.
 4) 117 стр 7.1-7.11, 7.15-7.29, 7.44-7.45, 7.81-7.84, 7.114-7.115,
 7.124-7.127
+5) 7.324, 7.325,7.330, 7.331, 7.334, 7.374, 7.380, 7.391(опционально),  7,399, 7.401, 7.407
+6) 7.411, 7.413, 7.415,7.417, 7.419, 7.423, 7.425(опционально),7.431(опционально), 7.433(опционально)
 
 
 Итоговый контроль:
@@ -133,6 +155,7 @@ Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
 
 Data Cleaning(Regex):
 2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
@@ -141,3 +164,7 @@ Data Cleaning(Regex):
 
 Data Visual:
 1) https://www.kaggle.com/learn/data-visualization
+
+Pandas:
+1) 1 задача в день 
+https://leetcode.com/studyplan/introduction-to-pandas/ 
